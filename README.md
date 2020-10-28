@@ -1,5 +1,3 @@
-# Notes
-Mom Notes
 # Medical
 
 ## Table of context
@@ -93,4 +91,24 @@ Podiatrist (DPM)
 
 You may see "prescription" written as "Rx.
 
-## 
+## After a client is discharged from an inpatient, emergency, or urgent care facility (including psychiatric)
+
+When a client is discharged from any facility, whether it is inpatient, rehab, psychiatric emergency room, or any other they will usually have new medication orders. It is very important to the client's safety that these orders are reconciled with the client's current medication orders, You must call the client's primary care provider within 24 hours to reconcile the client's current medication orders with the orders provided on discharge from the facility. You must document that you made the call, and the response from the primary care provider including all instructions for medication and follow-up care. If you do not get a response from the provider, you must document that, along with all continued attempts to contact the provider.
+
+If there is no nurse there to take verbal instructions from the primary care provider, you ar required to ask the provider for faxed or electronically supplied instructions.
+
+**Get stright to the point!**
+
+## Sample Medications
+
+Writen or print text of what a label should have.
+
+Name
+Doctor Name
+Exp. Date
+
+## PRN Medications
+
+PRN are given for a reason.
+
+Take to doctor.
