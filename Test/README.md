@@ -1,4 +1,5 @@
 |Question Number|Question|
+|---------------|--------|
 |1|Where do trainers and providers find the new 65G-7 forms?|
 |2|Are nurses and other medical professionals who may administer medications to clients in our group homes and facilities from time-to-time required to document on APD forms?|
 |3|When must we start using the new forms? If the Authorization for Medication Administration was just signed a few months ago, do we have to go back to the doctor to get a new one?|
